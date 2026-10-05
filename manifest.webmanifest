@@ -1,0 +1,14 @@
+{
+  "name": "Tactiv",
+  "short_name": "Tactiv",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": [
+    "fullscreen",
+    "standalone"
+  ],
+  "orientation": "landscape",
+  "background_color": "#0F1216",
+  "theme_color": "#0F1216"
+}
